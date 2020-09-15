@@ -1,4 +1,4 @@
-import { Player } from "textalive-api";
+import { Player } from "textalive-app-api";
 
 /**
  * 
