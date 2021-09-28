@@ -22,8 +22,8 @@ class Main
     {
         var player = new Player({
             app: {
-                appAuthor: "daniwell",
-                appName: "Mosaic"
+                // トークンは https://developer.textalive.jp/profile で取得したものを使う
+                token: "JYDH8RrdzBRmvSLL"
             },
             mediaElement: document.querySelector("#media")
         });
